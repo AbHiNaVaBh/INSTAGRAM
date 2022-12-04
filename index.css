@@ -1,0 +1,36 @@
+.main-body{
+    background-color:white;
+    width: 350px;
+    height: 630px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    padding-top: 40px;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+}
+.insta-logo{
+    padding-right: 17px;
+    padding-top: 10px;
+    object-fit: contain;
+}
+.text1{
+    font-weight: 600;
+    font-size: 17px;
+    color:rgba(var(--f52,142,142,142));
+}
+.lgn-sgnup-btn{
+    background-color:#0095f6;
+    width: 285px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid transparent;
+}
+i{
+    color: white;
+}
+span{
+    color: white;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-weight: 600;
+}
