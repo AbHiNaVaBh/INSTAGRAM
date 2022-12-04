@@ -34,3 +34,29 @@ span{
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
     font-weight: 600;
 }
+.line{
+    text-align: center;
+    height: 50px;
+    padding-top: 5px;
+}
+.line1{
+    float: left;
+    width: 25%;
+    padding-top: 20px;
+    padding-left: 25px;
+    margin-left: 55px;
+}
+.line-text{
+    float: left;
+    width: 19%;
+    height: 58px;
+    padding-left: 4px;
+    padding-top: 18px;
+}
+.line2{
+    float: right;
+    width: 25%;
+    padding-top: 20px;
+    margin-right: 52px;
+    padding-right: 25px;
+}
