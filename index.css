@@ -124,3 +124,14 @@ span{
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
     text-decoration: none;
 }
+.extr-info1{
+    padding-top: 2px;
+    background-color:white;
+    width: 350px;
+    height: 60px;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgb(208, 200, 200);
+}
