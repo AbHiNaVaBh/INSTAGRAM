@@ -110,3 +110,8 @@ span{
     color:rgba(var(--f52,142,142,142));
     cursor: pointer;
 }
+.text3{
+    font-weight: 600;
+    font-size: 12px;
+    color:rgba(var(--f52,142,142,142));
+}
