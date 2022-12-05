@@ -71,52 +71,24 @@ span {
 
 .email {
     width: 285px;
-    height: 35px;
-    border-radius: 5px;
-    border: 1px solid rgba(var(--ca6, 219, 219, 219), 1);
     margin-top: 10px;
-    padding-left: 10px;
 }
 
 .name {
     width: 285px;
-    height: 35px;
-    border-radius: 5px;
-    border: 1px solid rgba(var(--ca6, 219, 219, 219), 1);
     margin-top: 10px;
-    padding-left: 10px;
 }
 
 .username {
     width: 285px;
-    height: 35px;
-    border-radius: 5px;
-    border: 1px solid rgba(var(--ca6, 219, 219, 219), 1);
     margin-top: 10px;
-    padding-left: 10px;
 }
 
 .pswd {
     width: 285px;
-    height: 35px;
-    border-radius: 5px;
-    border: 1px solid rgba(var(--ca6, 219, 219, 219), 1);
     margin-top: 10px;
-    padding-left: 10px;
+    margin-bottom: 10px;
 }
-
-.d-name {
-    padding-top: 10px;
-}
-
-.d-username {
-    padding-top: 10px;
-}
-
-.d-pswd {
-    padding-top: 10px;
-}
-
 .text2 {
     font-weight: 600;
     font-size: 12px;
